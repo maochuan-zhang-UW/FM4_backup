@@ -1,0 +1,4627 @@
+2022 910 04018.3045 56.88129 59.94 1.37      12                                          0.30   0.20                                       1.00                    1 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+A01A OO  HHZ I U
+A02A OO  HHZ I D
+A03A OO  HHZ I U
+A04A OO  HHZ I U
+A06A OO  HHZ I D
+A07A OO  HHZ I D
+A09A OO  HHZ I U
+                                                                      1 
+2022 910152537.4745 57.06129 59.52 1.28      11                                          0.30   0.20                                       1.00                    2 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A06A OO  HHZ I U
+A07A OO  HHZ I D
+A08A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                      2 
+2022 9111811 9.0245 56.94129 59.28 1.83       9                                          0.30   0.20                                       1.00                    3 
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I D
+                                                                      3 
+2022 912 23631.6745 57.30129 59.64 1.43      11                                          0.30   0.20                                       1.00                    4 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                      4 
+2022 912 244 4.6445 57.06129 59.46 1.54       9                                          0.30   0.20                                       1.00                    5 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                      5 
+2022 912 52653.0845 56.46129 59.64 1.31      12                                          0.30   0.20                                       1.00                    6 
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A03A OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I D
+A11A OO  HHZ I U
+                                                                      6 
+2022 9151034 3.8945 56.88129 59.58 1.40       9                                          0.30   0.20                                       1.00                    7 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                      7 
+2022 916 65957.9345 56.94129 59.28 1.37       9                                          0.30   0.20                                       1.00                    8 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A08A OO  HHZ I D
+                                                                      8 
+202210 5 84738.1245 56.76129 59.70 1.71      13                                          0.30   0.20                                       1.00                    9 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A06A OO  HHZ I U
+A07A OO  HHZ I D
+A08A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                      9 
+202210 713 641.6445 57.18129 59.28 1.54      10                                          0.30   0.20                                       1.00                   10 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                     10 
+202210 713 951.5745 57.18129 59.28 1.60       9                                          0.30   0.20                                       1.00                   11 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+                                                                     11 
+202210 7134155.1745 57.24129 59.28 1.54      11                                          0.30   0.20                                       1.00                   12 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                     12 
+202210 7141331.8445 57.30129 59.28 1.66      10                                          0.30   0.20                                       1.00                   13 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                     13 
+202210 7142910.2045 57.06129 59.28 0.97       9                                          0.30   0.20                                       1.00                   14 
+AAS2 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A07A OO  HHZ I D
+A08A OO  HHZ I D
+A10A OO  HHZ I U
+                                                                     14 
+202210 7143218.2045 57.30129 59.34 1.66      10                                          0.30   0.20                                       1.00                   15 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                     15 
+20221013 5 6 0.9045 56.94129 59.82 1.66      11                                          0.30   0.20                                       1.00                   16 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                     16 
+20221014 6 319.0345 57.18129 59.58 1.31      12                                          0.30   0.20                                       1.00                   17 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                     17 
+20221018 9 955.4645 56.70129 59.40 1.02      10                                          0.30   0.20                                       1.00                   18 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I U
+                                                                     18 
+20221018133615.5745 56.40129 59.46 1.60      13                                          0.30   0.20                                       1.00                   19 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I D
+A14A OO  HHZ I U
+                                                                     19 
+20221025 61613.3045 56.82129 59.34 1.05       9                                          0.30   0.20                                       1.00                   20 
+AAS1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A02A OO  HHZ I U
+A03A OO  HHZ I D
+A05A OO  HHZ I D
+A06A OO  HHZ I U
+                                                                     20 
+20221025 617 6.7745 57.12129 59.76 1.54      12                                          0.30   0.20                                       1.00                   21 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A03A OO  HHZ I D
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                     21 
+20221025 62745.6645 56.76129 59.28 2.46      12                                          0.30   0.20                                       1.00                   22 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A03A OO  HHZ I D
+A05A OO  HHZ I D
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                     22 
+20221025 74852.7945 56.64129 59.52 2.12      10                                          0.30   0.20                                       1.00                   23 
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+A03A OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A11A OO  HHZ I D
+A14A OO  HHZ I U
+                                                                     23 
+20221025 812 5.0145 56.70129 59.94 1.48      11                                          0.30   0.20                                       1.00                   24 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A03A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A11A OO  HHZ I D
+                                                                     24 
+20221029 9 745.0545 56.40129 59.52 1.67      18                                          0.30   0.20                                       1.00                   25 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A03A OO  HHZ I D
+A04A OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                     25 
+20221029 92434.9445 56.40129 59.46 1.66      10                                          0.30   0.20                                       1.00                   26 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I D
+                                                                     26 
+20221029 92923.0145 56.52129 59.22 1.48      12                                          0.30   0.20                                       1.00                   27 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                     27 
+20221029 92957.2145 56.40129 59.22 1.08       9                                          0.30   0.20                                       1.00                   28 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A10A OO  HHZ I U
+A12A OO  HHZ I D
+                                                                     28 
+20221029 935 4.3045 56.40129 59.58 1.63      10                                          0.30   0.20                                       1.00                   29 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+                                                                     29 
+20221030 0 127.3545 57.06129 59.64 0.79      11                                          0.30   0.20                                       1.00                   30 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I U
+                                                                     30 
+20221030 0 214.3545 57.24129 59.76 1.66      11                                          0.30   0.20                                       1.00                   31 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I D
+                                                                     31 
+20221030 01243.9145 56.58129 59.28 2.00      10                                          0.30   0.20                                       1.00                   32 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A03A OO  HHZ I U
+A05A OO  HHZ I D
+A10A OO  HHZ I U
+                                                                     32 
+20221030 13052.0245 56.64129 59.46 1.94      10                                          0.30   0.20                                       1.00                   33 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+                                                                     33 
+20221030 43754.4845 56.52129 59.40 1.48      13                                          0.30   0.20                                       1.00                   34 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                     34 
+20221030 64024.3945 57.00129 59.70 1.63       9                                          0.30   0.20                                       1.00                   35 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A11A OO  HHZ I U
+A12A OO  HHZ I D
+                                                                     35 
+20221030 74653.3745 56.46129 59.40 1.89      11                                          0.30   0.20                                       1.00                   36 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                     36 
+20221030 85514.5945 57.30129 59.70 2.12       9                                          0.30   0.20                                       1.00                   37 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I D
+                                                                     37 
+20221030 85831.4045 56.40129 59.46 1.97      11                                          0.30   0.20                                       1.00                   38 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I D
+                                                                     38 
+20221030183955.3845 56.82129 59.58 1.02      11                                          0.30   0.20                                       1.00                   39 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I U
+A13A OO  HHZ I U
+                                                                     39 
+202211 3105415.2545 57.06129 59.88 1.37      15                                          0.30   0.20                                       1.00                   40 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A03A OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                     40 
+202211 3153516.8145 57.12129 59.94 1.48      10                                          0.30   0.20                                       1.00                   41 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A06A OO  HHZ I U
+A07A OO  HHZ I D
+A09A OO  HHZ I U
+                                                                     41 
+202211 7205543.2045 57.06129 59.76 1.25      12                                          0.30   0.20                                       1.00                   42 
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A03A OO  HHZ I D
+A05A OO  HHZ I D
+A09A OO  HHZ I U
+A10A OO  HHZ I D
+A11A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                     42 
+202211 8 32611.6145 56.82129 59.64 1.28      12                                          0.30   0.20                                       1.00                   43 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A03A OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                     43 
+202211 819 835.0845 57.18129 59.76 1.54      13                                          0.30   0.20                                       1.00                   44 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I D
+A11A OO  HHZ I D
+A12A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                     44 
+20221112 53023.0845 57.24129 59.82 1.54      12                                          0.30   0.20                                       1.00                   45 
+AAS1 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                     45 
+20221121 14530.2345 56.58129 59.64 1.77      12                                          0.30   0.20                                       1.00                   46 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                     46 
+20221127121029.1445 57.30129 59.52 0.74       9                                          0.30   0.20                                       1.00                   47 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A04A OO  HHZ I U
+A13A OO  HHZ I U
+                                                                     47 
+202212 6 12430.6145 57.18129 59.58 1.51      12                                          0.30   0.20                                       1.00                   48 
+AAS1 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AID1 OO  HHZ I U
+A01A OO  HHZ I D
+A02A OO  HHZ I U
+A03A OO  HHZ I U
+A04A OO  HHZ I D
+A05A OO  HHZ I U
+A06A OO  HHZ I D
+A13A OO  HHZ I U
+                                                                     48 
+20221217183048.0245 56.94129 59.40 1.05      11                                          0.30   0.20                                       1.00                   49 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A10A OO  HHZ I D
+A11A OO  HHZ I D
+A13A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                     49 
+20221222 14129.8445 57.06129 59.40 1.66      11                                          0.30   0.20                                       1.00                   50 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I D
+A10A OO  HHZ I D
+A14A OO  HHZ I D
+                                                                     50 
+20221222 2 7 5.5545 56.40129 59.64 1.66      17                                          0.30   0.20                                       1.00                   51 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I D
+A07A OO  HHZ I D
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I D
+A13A OO  HHZ I D
+A14A OO  HHZ I D
+                                                                     51 
+20221223224424.9645 56.58129 59.58 1.37      13                                          0.30   0.20                                       1.00                   52 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A13A OO  HHZ I D
+                                                                     52 
+20221224231124.1445 56.70129 59.88 1.83      14                                          0.30   0.20                                       1.00                   53 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A03A OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                     53 
+20221226 7 133.5545 56.76129 59.76 1.74      15                                          0.30   0.20                                       1.00                   54 
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A06A OO  HHZ I U
+A07A OO  HHZ I D
+A08A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I D
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I D
+A14A OO  HHZ I U
+                                                                     54 
+2022122612 0 7.5045 57.24129 59.58 1.37      12                                          0.30   0.20                                       1.00                   55 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A03A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A14A OO  HHZ I U
+                                                                     55 
+20221230 94836.8045 56.88129 59.52 1.31      12                                          0.30   0.20                                       1.00                   56 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                     56 
+20221230 95749.5845 56.64129 59.64 1.31      12                                          0.30   0.20                                       1.00                   57 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                     57 
+20221230122523.5245 56.58129 59.58 1.14      13                                          0.30   0.20                                       1.00                   58 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A03A OO  HHZ I D
+A05A OO  HHZ I U
+A06A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                     58 
+20221230152740.4445 56.94129 59.76 1.25      13                                          0.30   0.20                                       1.00                   59 
+AAS1 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A02A OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+                                                                     59 
+20221230152747.0345 57.30129 59.70 1.28      12                                          0.30   0.20                                       1.00                   60 
+AAS1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                     60 
+2022123016 638.1045 57.00129 59.70 1.28      11                                          0.30   0.20                                       1.00                   61 
+AAS1 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                     61 
+2023 1 2 3 8 9.0345 56.46129 59.58 1.63       9                                          0.30   0.20                                       1.00                   62 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+                                                                     62 
+2023 1 2121718.9545 57.30129 59.40 1.54      12                                          0.30   0.20                                       1.00                   63 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                     63 
+2023 1 2121926.9045 57.18129 59.34 1.60      10                                          0.30   0.20                                       1.00                   64 
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                     64 
+2023 1 2122050.5645 57.00129 59.46 1.54      11                                          0.30   0.20                                       1.00                   65 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                     65 
+2023 1 2122722.4045 57.30129 59.40 1.48      11                                          0.30   0.20                                       1.00                   66 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                     66 
+2023 1 8 250 6.2545 56.82129 59.40 1.89      12                                          0.30   0.20                                       1.00                   67 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                     67 
+2023 1111648 5.1245 56.46129 59.58 1.77      10                                          0.30   0.20                                       1.00                   68 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A10A OO  HHZ I D
+A11A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                     68 
+2023 113 23359.3045 57.24129 59.70 1.83      11                                          0.30   0.20                                       1.00                   69 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AID1 OO  HHZ I D
+A03A OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                     69 
+2023 119 133 0.2045 56.70129 59.40 0.51      10                                          0.30   0.20                                       1.00                   70 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A08A OO  HHZ I D
+A12A OO  HHZ I U
+                                                                     70 
+2023 120 2 8 7.1245 57.24129 59.76 1.31      10                                          0.30   0.20                                       1.00                   71 
+A02A OO  HHZ I D
+A03A OO  HHZ I U
+A04A OO  HHZ I U
+A05A OO  HHZ I D
+A06A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I U
+                                                                     71 
+2023 120 21841.3045 56.88129 59.76 1.31      10                                          0.30   0.20                                       1.00                   72 
+A04A OO  HHZ I U
+A05A OO  HHZ I D
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                     72 
+2023 123 33156.9845 56.82129 59.34 1.40      10                                          0.30   0.20                                       1.00                   73 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                     73 
+2023 130203857.8145 56.40129 59.88 1.20       9                                          0.30   0.20                                       1.00                   74 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A12A OO  HHZ I U
+                                                                     74 
+2023 2 3203456.2545 56.46129 59.28 1.86      12                                          0.30   0.20                                       1.00                   75 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A08A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                     75 
+2023 216 4 543.8145 57.18129 59.52 1.89       9                                          0.30   0.20                                       1.00                   76 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+A05A OO  HHZ I D
+A07A OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                     76 
+2023 217 11728.0545 57.06129 59.34 1.60      10                                          0.30   0.20                                       1.00                   77 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                     77 
+2023 219 12729.9445 57.12129 59.58 1.64      14                                          0.30   0.20                                       1.00                   78 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A04A OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I D
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I D
+A12A OO  HHZ I U
+                                                                     78 
+2023 220 14351.4545 56.58129 59.40 1.67      16                                          0.30   0.20                                       1.00                   79 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A03A OO  HHZ I D
+A04A OO  HHZ I D
+A05A OO  HHZ I D
+A06A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+                                                                     79 
+2023 220 41533.8045 56.40129 59.28 1.37      12                                          0.30   0.20                                       1.00                   80 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I D
+A12A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                     80 
+2023 226172642.8745 57.18129 59.46 1.74       9                                          0.30   0.20                                       1.00                   81 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+A02A OO  HHZ I D
+A04A OO  HHZ I U
+A13A OO  HHZ I U
+                                                                     81 
+2023 227 44052.9445 57.30129 59.58 1.71      10                                          0.30   0.20                                       1.00                   82 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+                                                                     82 
+2023 22721 753.6545 56.64129 59.46 2.17      10                                          0.30   0.20                                       1.00                   83 
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+                                                                     83 
+2023 227211151.1745 57.24129 59.34 1.43       9                                          0.30   0.20                                       1.00                   84 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                     84 
+2023 2282127 5.3445 57.18129 59.46 1.43       9                                          0.30   0.20                                       1.00                   85 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A08A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                     85 
+2023 22822 9 1.3045 57.12129 59.52 1.37       9                                          0.30   0.20                                       1.00                   86 
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                     86 
+2023 3 1 95633.8645 57.30129 59.70 1.37      10                                          0.30   0.20                                       1.00                   87 
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AID1 OO  HHZ I U
+A03A OO  HHZ I D
+A05A OO  HHZ I D
+A07A OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                     87 
+2023 3 223 145.6045 56.70129 59.46 1.37       9                                          0.30   0.20                                       1.00                   88 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A10A OO  HHZ I D
+A12A OO  HHZ I D
+                                                                     88 
+2023 3 6212923.7945 56.52129 59.88 1.31      10                                          0.30   0.20                                       1.00                   89 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+A05A OO  HHZ I D
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                     89 
+2023 3 718 820.1645 56.58129 59.16 1.77      13                                          0.30   0.20                                       1.00                   90 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A03A OO  HHZ I D
+A05A OO  HHZ I D
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I D
+                                                                     90 
+2023 3 9 35219.1145 56.64129 59.10 1.89       9                                          0.30   0.20                                       1.00                   91 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A10A OO  HHZ I U
+                                                                     91 
+2023 3111056 2.5345 57.30129 59.94 1.97      10                                          0.30   0.20                                       1.00                   92 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A02A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                     92 
+2023 325192914.9245 56.46129 59.58 1.31      10                                          0.30   0.20                                       1.00                   93 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A12A OO  HHZ I U
+A13A OO  HHZ I D
+A14A OO  HHZ I U
+                                                                     93 
+2023 326163043.7545 57.00129 59.70 1.54      11                                          0.30   0.20                                       1.00                   94 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I D
+A14A OO  HHZ I U
+                                                                     94 
+2023 329211513.5445 57.30129 59.58 1.28      10                                          0.30   0.20                                       1.00                   95 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I D
+A11A OO  HHZ I U
+                                                                     95 
+2023 330152740.3445 57.18129 59.40 1.94       9                                          0.30   0.20                                       1.00                   96 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+                                                                     96 
+2023 3312235 4.3245 56.88129 59.22 2.46      10                                          0.30   0.20                                       1.00                   97 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A12A OO  HHZ I D
+A13A OO  HHZ I D
+A14A OO  HHZ I U
+                                                                     97 
+2023 4 1231836.1845 57.06129 59.34 1.51      11                                          0.30   0.20                                       1.00                   98 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AID1 OO  HHZ I D
+A01A OO  HHZ I D
+A02A OO  HHZ I D
+A04A OO  HHZ I U
+A09A OO  HHZ I D
+A13A OO  HHZ I D
+                                                                     98 
+2023 4 2 0 315.0145 57.00129 59.64 1.84      19                                          0.30   0.20                                       1.00                   99 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A02A OO  HHZ I U
+A03A OO  HHZ I D
+A04A OO  HHZ I U
+A05A OO  HHZ I D
+A06A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+A12A OO  HHZ I D
+A13A OO  HHZ I D
+A14A OO  HHZ I D
+                                                                     99 
+2023 4 2 0 326.4845 57.30129 59.64 1.79      17                                          0.30   0.20                                       1.00                  100 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A03A OO  HHZ I U
+A04A OO  HHZ I U
+A05A OO  HHZ I D
+A06A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I D
+A14A OO  HHZ I D
+                                                                    100 
+2023 4 3 12816.3045 57.18129 59.58 2.40       9                                          0.30   0.20                                       1.00                  101 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A10A OO  HHZ I D
+                                                                    101 
+2023 4 3 12851.6345 57.18129 59.58 1.37       9                                          0.30   0.20                                       1.00                  102 
+AAS1 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    102 
+2023 4 4 027 5.6945 57.12129 59.76 1.77      12                                          0.30   0.20                                       1.00                  103 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    103 
+2023 4 4 25122.3045 57.30129 59.64 1.90      15                                          0.30   0.20                                       1.00                  104 
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A04A OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    104 
+2023 4 5 13921.0645 56.70129 59.16 1.77       9                                          0.30   0.20                                       1.00                  105 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    105 
+2023 4 5132428.3645 57.06129 59.46 1.37       9                                          0.30   0.20                                       1.00                  106 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    106 
+2023 4 6152411.3445 56.88129 59.94 1.89      10                                          0.30   0.20                                       1.00                  107 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A10A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                    107 
+2023 4 6152743.8145 56.76129 59.52 1.54       9                                          0.30   0.20                                       1.00                  108 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A10A OO  HHZ I U
+                                                                    108 
+2023 4 6153036.8845 56.76129 59.22 1.74      10                                          0.30   0.20                                       1.00                  109 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A10A OO  HHZ I U
+A12A OO  HHZ I D
+                                                                    109 
+2023 4 61536 1.9945 56.52129 59.58 1.77      10                                          0.30   0.20                                       1.00                  110 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+                                                                    110 
+2023 4 6153650.1345 56.46129 59.10 1.14      10                                          0.30   0.20                                       1.00                  111 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A08A OO  HHZ I D
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+                                                                    111 
+2023 4 6153856.4545 56.40129 59.40 1.74      13                                          0.30   0.20                                       1.00                  112 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I D
+A14A OO  HHZ I U
+                                                                    112 
+2023 4 61539 6.4945 56.46129 59.46 1.77      10                                          0.30   0.20                                       1.00                  113 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC3 OO  HHZ I D
+A07A OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I D
+                                                                    113 
+2023 4 6154719.4145 56.40129 59.52 1.83      13                                          0.30   0.20                                       1.00                  114 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I D
+A14A OO  HHZ I U
+                                                                    114 
+2023 4 6162413.1945 56.64129 59.22 0.68      10                                          0.30   0.20                                       1.00                  115 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    115 
+2023 4 61625 8.8145 57.18129 59.46 2.00      12                                          0.30   0.20                                       1.00                  116 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A03A OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A13A OO  HHZ I D
+                                                                    116 
+2023 4 7135949.3545 57.00129 59.40 1.83      11                                          0.30   0.20                                       1.00                  117 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A01A OO  HHZ I U
+A02A OO  HHZ I U
+A03A OO  HHZ I U
+A04A OO  HHZ I U
+                                                                    117 
+2023 4 715 510.6945 56.94129 59.52 1.83      12                                          0.30   0.20                                       1.00                  118 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+                                                                    118 
+2023 4 7171646.2545 56.64129 59.10 1.37       9                                          0.30   0.20                                       1.00                  119 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    119 
+2023 4 81712 1.3345 57.12129 59.76 1.48      13                                          0.30   0.20                                       1.00                  120 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A03A OO  HHZ I D
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    120 
+2023 410214135.1145 57.24129 59.16 1.54      10                                          0.30   0.20                                       1.00                  121 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A01A OO  HHZ I D
+A02A OO  HHZ I U
+A04A OO  HHZ I U
+A09A OO  HHZ I U
+                                                                    121 
+2023 412171630.4945 56.88129 59.64 1.77      11                                          0.30   0.20                                       1.00                  122 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+                                                                    122 
+2023 41218 115.7645 56.46129 59.82 1.60      16                                          0.30   0.20                                       1.00                  123 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A01A OO  HHZ I U
+A04A OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    123 
+2023 41219 112.6545 57.24129 59.64 1.43       9                                          0.30   0.20                                       1.00                  124 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+                                                                    124 
+2023 412191956.0945 57.24129 59.16 2.20      12                                          0.30   0.20                                       1.00                  125 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A03A OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A11A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                    125 
+2023 412192046.3045 57.12129 59.76 1.66      13                                          0.30   0.20                                       1.00                  126 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A03A OO  HHZ I D
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    126 
+2023 4121936 3.4345 57.24129 59.94 1.83      12                                          0.30   0.20                                       1.00                  127 
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A13A OO  HHZ I U
+                                                                    127 
+2023 412195037.0145 56.70129 59.88 1.63      11                                          0.30   0.20                                       1.00                  128 
+AAS1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    128 
+2023 412195343.3545 56.64129 59.70 1.28      11                                          0.30   0.20                                       1.00                  129 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I D
+A10A OO  HHZ I U
+                                                                    129 
+2023 412195811.2345 57.24129 59.40 1.25      13                                          0.30   0.20                                       1.00                  130 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    130 
+2023 41220 113.0545 56.88129 59.94 1.37      11                                          0.30   0.20                                       1.00                  131 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    131 
+2023 412202810.3745 56.46129 59.76 1.54      14                                          0.30   0.20                                       1.00                  132 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    132 
+2023 41221 127.4145 56.70129 59.88 1.31      12                                          0.30   0.20                                       1.00                  133 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I D
+A09A OO  HHZ I D
+A10A OO  HHZ I D
+A11A OO  HHZ I U
+                                                                    133 
+2023 412215030.1345 57.06129 59.82 1.54      10                                          0.30   0.20                                       1.00                  134 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+                                                                    134 
+2023 413 12118.3845 57.30129 59.52 1.66      10                                          0.30   0.20                                       1.00                  135 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A13A OO  HHZ I D
+                                                                    135 
+2023 4131345 8.1745 57.24129 59.58 1.25      10                                          0.30   0.20                                       1.00                  136 
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    136 
+2023 414 315 1.1745 56.46129 59.52 1.54      10                                          0.30   0.20                                       1.00                  137 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+                                                                    137 
+2023 414 6 134.5245 56.46129 59.52 2.12      10                                          0.30   0.20                                       1.00                  138 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I D
+A14A OO  HHZ I D
+                                                                    138 
+2023 414105452.6045 57.24129 59.52 1.43       9                                          0.30   0.20                                       1.00                  139 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+                                                                    139 
+2023 41411 146.3945 57.24129 59.40 1.54       9                                          0.30   0.20                                       1.00                  140 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+                                                                    140 
+2023 41411 9 9.3945 57.30129 59.28 1.31      11                                          0.30   0.20                                       1.00                  141 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+A04A OO  HHZ I D
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    141 
+2023 414202453.6945 57.30129 59.34 1.31       9                                          0.30   0.20                                       1.00                  142 
+AAS1 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                    142 
+2023 414215328.2245 56.88129 59.82 0.97      11                                          0.30   0.20                                       1.00                  143 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I D
+A08A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    143 
+2023 4142214 0.7745 56.64129 59.88 1.51      11                                          0.30   0.20                                       1.00                  144 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    144 
+2023 414223038.4745 56.64129 59.76 1.54      11                                          0.30   0.20                                       1.00                  145 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+                                                                    145 
+2023 415205353.3845 57.12129 59.76 1.66      10                                          0.30   0.20                                       1.00                  146 
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    146 
+2023 415223935.0445 56.64129 59.46 1.25      17                                          0.30   0.20                                       1.00                  147 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A02A OO  HHZ I D
+A04A OO  HHZ I D
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I U
+                                                                    147 
+2023 415223944.4845 56.40129 59.52 1.77      16                                          0.30   0.20                                       1.00                  148 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A04A OO  HHZ I D
+A05A OO  HHZ I U
+A06A OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I D
+A13A OO  HHZ I D
+A14A OO  HHZ I U
+                                                                    148 
+2023 415224250.8945 56.40129 59.46 1.48      15                                          0.30   0.20                                       1.00                  149 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A04A OO  HHZ I D
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+                                                                    149 
+2023 415224422.8445 56.46129 59.22 1.54      10                                          0.30   0.20                                       1.00                  150 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A10A OO  HHZ I D
+A11A OO  HHZ I D
+A12A OO  HHZ I U
+                                                                    150 
+2023 415224457.8945 57.24129 59.70 1.43       9                                          0.30   0.20                                       1.00                  151 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A10A OO  HHZ I D
+A12A OO  HHZ I U
+                                                                    151 
+2023 415224955.2245 56.46129 59.34 1.48      13                                          0.30   0.20                                       1.00                  152 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A08A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    152 
+2023 415225121.4745 56.46129 59.46 1.60      10                                          0.30   0.20                                       1.00                  153 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I D
+                                                                    153 
+2023 415225243.8345 56.46129 59.34 1.48      10                                          0.30   0.20                                       1.00                  154 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I U
+                                                                    154 
+2023 415225916.0045 56.64129 59.64 1.51      10                                          0.30   0.20                                       1.00                  155 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+                                                                    155 
+2023 41523 342.3145 56.82129 59.52 1.48      10                                          0.30   0.20                                       1.00                  156 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I D
+                                                                    156 
+2023 41523 445.1945 56.46129 59.52 1.31      17                                          0.30   0.20                                       1.00                  157 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A01A OO  HHZ I D
+A04A OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I U
+                                                                    157 
+2023 41523 556.2345 56.82129 59.46 1.54      10                                          0.30   0.20                                       1.00                  158 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A10A OO  HHZ I D
+A11A OO  HHZ I U
+A12A OO  HHZ I D
+                                                                    158 
+2023 41523 719.7445 56.46129 59.58 1.66      15                                          0.30   0.20                                       1.00                  159 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AID1 OO  HHZ I U
+A04A OO  HHZ I U
+A05A OO  HHZ I D
+A07A OO  HHZ I D
+A08A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                    159 
+2023 41523 735.5345 57.30129 59.64 0.62       9                                          0.30   0.20                                       1.00                  160 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AID1 OO  HHZ I D
+A10A OO  HHZ I D
+A11A OO  HHZ I D
+A12A OO  HHZ I D
+                                                                    160 
+2023 415231551.2145 56.70129 59.46 1.60       9                                          0.30   0.20                                       1.00                  161 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A10A OO  HHZ I U
+A12A OO  HHZ I D
+A14A OO  HHZ I U
+                                                                    161 
+2023 415231746.8345 56.64129 59.64 1.60      17                                          0.30   0.20                                       1.00                  162 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AID1 OO  HHZ I U
+A02A OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I D
+A14A OO  HHZ I U
+                                                                    162 
+2023 4152320 3.3345 56.58129 59.28 1.86       9                                          0.30   0.20                                       1.00                  163 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+                                                                    163 
+2023 415235823.0045 56.40129 59.34 1.25      10                                          0.30   0.20                                       1.00                  164 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I D
+                                                                    164 
+2023 416 01238.2645 57.24129 59.88 2.12       9                                          0.30   0.20                                       1.00                  165 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I D
+                                                                    165 
+2023 416 01928.9945 56.94129 59.64 2.46       9                                          0.30   0.20                                       1.00                  166 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A11A OO  HHZ I U
+                                                                    166 
+2023 416 05635.5145 56.40129 59.40 1.77      10                                          0.30   0.20                                       1.00                  167 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A02A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    167 
+2023 416 1 130.7445 57.00129 59.64 1.54      10                                          0.30   0.20                                       1.00                  168 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I U
+                                                                    168 
+2023 41615 128.6145 56.46129 59.22 1.60      13                                          0.30   0.20                                       1.00                  169 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                    169 
+2023 41615 736.8945 56.52129 59.40 1.66      12                                          0.30   0.20                                       1.00                  170 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+                                                                    170 
+2023 4162323 8.4345 56.94129 59.10 1.48      11                                          0.30   0.20                                       1.00                  171 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A01A OO  HHZ I U
+A02A OO  HHZ I U
+A03A OO  HHZ I D
+A04A OO  HHZ I U
+A06A OO  HHZ I D
+A07A OO  HHZ I U
+                                                                    171 
+2023 4182114 1.8545 57.00129 59.88 2.12      11                                          0.30   0.20                                       1.00                  172 
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I D
+A11A OO  HHZ I D
+A13A OO  HHZ I D
+                                                                    172 
+2023 41913 533.9245 57.18129 59.82 1.37      12                                          0.30   0.20                                       1.00                  173 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A03A OO  HHZ I D
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    173 
+2023 41914 544.4145 56.58129 59.40 1.66       9                                          0.30   0.20                                       1.00                  174 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A03A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+                                                                    174 
+2023 419162651.6645 57.30129 59.22 1.54      10                                          0.30   0.20                                       1.00                  175 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    175 
+2023 41918 7 2.0545 57.24129 59.64 1.81      19                                          0.30   0.20                                       1.00                  176 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A02A OO  HHZ I D
+A04A OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    176 
+2023 4191815 0.8345 56.70129 59.70 1.89      10                                          0.30   0.20                                       1.00                  177 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    177 
+2023 419181534.2145 56.52129 59.34 2.29      10                                          0.30   0.20                                       1.00                  178 
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    178 
+2023 419181635.8345 56.94129 59.76 2.00      12                                          0.30   0.20                                       1.00                  179 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    179 
+2023 419182146.1045 57.06129 59.52 1.93      17                                          0.30   0.20                                       1.00                  180 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A04A OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I D
+                                                                    180 
+2023 419182529.3245 57.18129 59.70 1.81      19                                          0.30   0.20                                       1.00                  181 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A02A OO  HHZ I D
+A03A OO  HHZ I U
+A04A OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    181 
+2023 419182640.0545 57.30129 59.64 1.90      16                                          0.30   0.20                                       1.00                  182 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A04A OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I U
+                                                                    182 
+2023 419182722.3845 57.24129 59.58 1.90      18                                          0.30   0.20                                       1.00                  183 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A02A OO  HHZ I D
+A04A OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    183 
+2023 419182736.3645 57.30129 59.46 1.48      11                                          0.30   0.20                                       1.00                  184 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I D
+                                                                    184 
+2023 419183011.1545 57.06129 59.34 1.94       9                                          0.30   0.20                                       1.00                  185 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    185 
+2023 419183442.5545 57.00129 59.40 1.83      11                                          0.30   0.20                                       1.00                  186 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+                                                                    186 
+2023 419183737.3945 57.30129 59.64 1.84      15                                          0.30   0.20                                       1.00                  187 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A04A OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+                                                                    187 
+2023 4191842 4.0345 57.18129 59.70 1.81      13                                          0.30   0.20                                       1.00                  188 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+A04A OO  HHZ I D
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+                                                                    188 
+2023 419184314.4745 56.88129 59.76 1.94      14                                          0.30   0.20                                       1.00                  189 
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A04A OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I U
+                                                                    189 
+2023 419184324.3345 57.30129 59.70 1.87      16                                          0.30   0.20                                       1.00                  190 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A04A OO  HHZ I D
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+                                                                    190 
+2023 419184350.5645 56.58129 59.40 1.94      10                                          0.30   0.20                                       1.00                  191 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A07A OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A13A OO  HHZ I D
+                                                                    191 
+2023 419184514.6345 56.64129 59.16 2.29       9                                          0.30   0.20                                       1.00                  192 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+A05A OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                    192 
+2023 419184620.6145 56.82129 59.16 1.60      11                                          0.30   0.20                                       1.00                  193 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A03A OO  HHZ I D
+A05A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    193 
+2023 419184713.2245 56.64129 59.64 1.73      16                                          0.30   0.20                                       1.00                  194 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A04A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    194 
+2023 419184744.6545 56.82129 59.64 1.96      16                                          0.30   0.20                                       1.00                  195 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A03A OO  HHZ I U
+A04A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    195 
+2023 419184751.2245 56.82129 59.64 1.77      19                                          0.30   0.20                                       1.00                  196 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A02A OO  HHZ I U
+A03A OO  HHZ I U
+A04A OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    196 
+2023 419185046.7345 56.40129 59.40 1.77      10                                          0.30   0.20                                       1.00                  197 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    197 
+2023 419185330.3545 56.64129 59.46 1.83      13                                          0.30   0.20                                       1.00                  198 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    198 
+2023 41919 128.5645 57.24129 59.70 1.84      19                                          0.30   0.20                                       1.00                  199 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A02A OO  HHZ I D
+A03A OO  HHZ I U
+A04A OO  HHZ I D
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    199 
+2023 41919 237.7845 57.12129 59.34 1.48      12                                          0.30   0.20                                       1.00                  200 
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                    200 
+2023 419194329.2645 57.12129 59.58 1.94      14                                          0.30   0.20                                       1.00                  201 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I U
+A13A OO  HHZ I U
+                                                                    201 
+2023 419194421.9045 57.12129 59.64 1.87      18                                          0.30   0.20                                       1.00                  202 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A02A OO  HHZ I D
+A04A OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I U
+A13A OO  HHZ I D
+                                                                    202 
+2023 419194520.8445 57.18129 59.34 1.66      11                                          0.30   0.20                                       1.00                  203 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I D
+                                                                    203 
+2023 419195545.1445 57.12129 59.64 1.63      11                                          0.30   0.20                                       1.00                  204 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    204 
+2023 419213540.8545 56.70129 59.82 2.00      12                                          0.30   0.20                                       1.00                  205 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+                                                                    205 
+2023 419213546.7145 56.94129 59.76 1.89      14                                          0.30   0.20                                       1.00                  206 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A03A OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A13A OO  HHZ I U
+                                                                    206 
+2023 419213647.0745 57.30129 59.64 1.60      12                                          0.30   0.20                                       1.00                  207 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I D
+                                                                    207 
+2023 420151457.1345 56.88130  0.00 2.00      10                                          0.30   0.20                                       1.00                  208 
+AAS1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A02A OO  HHZ I U
+A04A OO  HHZ I D
+A05A OO  HHZ I D
+A06A OO  HHZ I U
+A09A OO  HHZ I D
+                                                                    208 
+2023 421 05629.0045 56.94129 59.34 1.20       9                                          0.30   0.20                                       1.00                  209 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A10A OO  HHZ I D
+                                                                    209 
+2023 422142315.4445 57.18129 59.76 1.94      11                                          0.30   0.20                                       1.00                  210 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A03A OO  HHZ I D
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I D
+                                                                    210 
+2023 422143649.5645 57.24129 59.58 1.89      12                                          0.30   0.20                                       1.00                  211 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A04A OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+                                                                    211 
+2023 42215 339.4945 57.06129 59.58 1.94      13                                          0.30   0.20                                       1.00                  212 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+A12A OO  HHZ I D
+                                                                    212 
+2023 422152132.1945 57.00129 59.70 1.74      14                                          0.30   0.20                                       1.00                  213 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A04A OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+                                                                    213 
+2023 422162122.5645 56.46129 59.34 1.54      10                                          0.30   0.20                                       1.00                  214 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I D
+A10A OO  HHZ I U
+                                                                    214 
+2023 422193611.1645 56.64129 59.34 1.89      10                                          0.30   0.20                                       1.00                  215 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I U
+                                                                    215 
+2023 4222129 0.2645 56.70129 59.52 1.37      11                                          0.30   0.20                                       1.00                  216 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+A05A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I U
+                                                                    216 
+2023 423162042.6245 56.46129 59.70 2.09      12                                          0.30   0.20                                       1.00                  217 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A01A OO  HHZ I D
+A02A OO  HHZ I D
+A03A OO  HHZ I U
+A04A OO  HHZ I D
+A06A OO  HHZ I D
+A13A OO  HHZ I U
+                                                                    217 
+2023 4231747 9.6945 56.94129 59.28 1.66      11                                          0.30   0.20                                       1.00                  218 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I D
+A08A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    218 
+2023 423183356.7645 56.58129 59.34 1.83      15                                          0.30   0.20                                       1.00                  219 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AID1 OO  HHZ I D
+A01A OO  HHZ I U
+A02A OO  HHZ I U
+A03A OO  HHZ I U
+A04A OO  HHZ I U
+A05A OO  HHZ I D
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A11A OO  HHZ I D
+A13A OO  HHZ I D
+                                                                    219 
+2023 424 94851.5745 56.40129 59.82 2.35      10                                          0.30   0.20                                       1.00                  220 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I D
+                                                                    220 
+2023 424105824.3745 56.82129 59.28 1.37       9                                          0.30   0.20                                       1.00                  221 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+                                                                    221 
+2023 427235114.7645 56.64129 59.94 1.25      10                                          0.30   0.20                                       1.00                  222 
+A01A OO  HHZ I D
+A03A OO  HHZ I D
+A04A OO  HHZ I D
+A05A OO  HHZ I U
+A06A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                    222 
+2023 42817 526.3645 57.18129 59.46 1.66      10                                          0.30   0.20                                       1.00                  223 
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+                                                                    223 
+2023 42817 855.0045 57.12129 59.76 1.89      13                                          0.30   0.20                                       1.00                  224 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+A04A OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+                                                                    224 
+2023 42823 335.9245 57.30129 59.70 1.54      12                                          0.30   0.20                                       1.00                  225 
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    225 
+2023 428231047.0445 56.70129 59.70 2.23      11                                          0.30   0.20                                       1.00                  226 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    226 
+2023 5 2194023.6145 57.06129 59.46 2.20       9                                          0.30   0.20                                       1.00                  227 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    227 
+2023 5 3 5 258.2945 56.88129 59.64 1.14      11                                          0.30   0.20                                       1.00                  228 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I U
+A13A OO  HHZ I D
+A14A OO  HHZ I U
+                                                                    228 
+2023 5 3 521 1.2545 57.30129 59.58 0.62       9                                          0.30   0.20                                       1.00                  229 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+A03A OO  HHZ I D
+A05A OO  HHZ I U
+A08A OO  HHZ I D
+                                                                    229 
+2023 5 3191019.3945 56.94129 59.88 1.77      14                                          0.30   0.20                                       1.00                  230 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A03A OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    230 
+2023 5 8162938.3145 57.30129 59.82 1.37      10                                          0.30   0.20                                       1.00                  231 
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    231 
+2023 5 8205730.9845 56.52129 59.70 1.90      16                                          0.30   0.20                                       1.00                  232 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A02A OO  HHZ I U
+A04A OO  HHZ I D
+A06A OO  HHZ I D
+A07A OO  HHZ I D
+A08A OO  HHZ I D
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    232 
+2023 5 8205856.5545 56.40129 59.40 2.17      10                                          0.30   0.20                                       1.00                  233 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A08A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I D
+                                                                    233 
+2023 5 9141843.3645 56.40129 59.94 1.60       9                                          0.30   0.20                                       1.00                  234 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    234 
+2023 5 915 822.0545 56.88129 59.22 1.83      10                                          0.30   0.20                                       1.00                  235 
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+A01A OO  HHZ I D
+A04A OO  HHZ I U
+A06A OO  HHZ I D
+A07A OO  HHZ I U
+A13A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                    235 
+2023 517124036.1745 57.00129 59.64 1.70      18                                          0.30   0.20                                       1.00                  236 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A04A OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    236 
+2023 517124455.3545 56.58129 59.28 1.71       9                                          0.30   0.20                                       1.00                  237 
+AAS1 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    237 
+2023 517125321.1145 57.24129 59.64 1.87      13                                          0.30   0.20                                       1.00                  238 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                    238 
+2023 5181253 9.2645 56.94129 59.64 1.60      11                                          0.30   0.20                                       1.00                  239 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A13A OO  HHZ I D
+                                                                    239 
+2023 518133638.6345 56.76129 59.28 1.74       9                                          0.30   0.20                                       1.00                  240 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A07A OO  HHZ I D
+A10A OO  HHZ I U
+A12A OO  HHZ I D
+                                                                    240 
+2023 5181414 0.0445 56.76129 59.64 1.89      12                                          0.30   0.20                                       1.00                  241 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A03A OO  HHZ I D
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A13A OO  HHZ I U
+                                                                    241 
+2023 518142232.2445 57.18129 59.76 1.60       9                                          0.30   0.20                                       1.00                  242 
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    242 
+2023 518145740.2345 57.12130  0.00 1.54      12                                          0.30   0.20                                       1.00                  243 
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A04A OO  HHZ I U
+A05A OO  HHZ I D
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A13A OO  HHZ I U
+                                                                    243 
+2023 519151926.6445 56.40129 59.52 1.08      10                                          0.30   0.20                                       1.00                  244 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A07A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+                                                                    244 
+2023 519152119.1445 57.24129 59.64 1.77       9                                          0.30   0.20                                       1.00                  245 
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AID1 OO  HHZ I U
+A03A OO  HHZ I U
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+                                                                    245 
+2023 519154610.8745 56.82129 59.40 0.68       9                                          0.30   0.20                                       1.00                  246 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+A05A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    246 
+2023 52118 9 5.9445 56.94129 59.22 1.43       9                                          0.30   0.20                                       1.00                  247 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A02A OO  HHZ I U
+A04A OO  HHZ I D
+                                                                    247 
+2023 522104314.5945 56.76130  0.00 1.86      11                                          0.30   0.20                                       1.00                  248 
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+                                                                    248 
+2023 52419 9 9.1245 56.70129 59.70 0.74      11                                          0.30   0.20                                       1.00                  249 
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A01A OO  HHZ I D
+A02A OO  HHZ I U
+A04A OO  HHZ I D
+A05A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    249 
+2023 524191815.8845 56.58129 59.82 1.31      12                                          0.30   0.20                                       1.00                  250 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AID1 OO  HHZ I D
+A03A OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    250 
+2023 5242158 7.5445 56.94129 59.88 1.77      15                                          0.30   0.20                                       1.00                  251 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A01A OO  HHZ I D
+A03A OO  HHZ I D
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I D
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A14A OO  HHZ I U
+                                                                    251 
+2023 526 95259.6245 56.76129 59.40 1.20       9                                          0.30   0.20                                       1.00                  252 
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A04A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    252 
+2023 526 953 1.9745 56.76129 59.40 1.94      11                                          0.30   0.20                                       1.00                  253 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    253 
+2023 5262048 9.8245 57.12129 59.70 1.17      12                                          0.30   0.20                                       1.00                  254 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    254 
+2023 527 133 5.3145 57.30129 59.10 1.02      10                                          0.30   0.20                                       1.00                  255 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    255 
+2023 528 729 9.2645 57.00129 59.16 2.00      11                                          0.30   0.20                                       1.00                  256 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    256 
+2023 528 849 7.7145 57.18129 59.82 1.43      10                                          0.30   0.20                                       1.00                  257 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A11A OO  HHZ I D
+                                                                    257 
+2023 6 2132412.2745 56.82129 59.70 1.74      11                                          0.30   0.20                                       1.00                  258 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A03A OO  HHZ I D
+A05A OO  HHZ I D
+A06A OO  HHZ I U
+A07A OO  HHZ I D
+                                                                    258 
+2023 6 2144550.6245 57.12129 59.64 1.48      11                                          0.30   0.20                                       1.00                  259 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    259 
+2023 6 2152013.9545 56.40129 59.46 1.37      11                                          0.30   0.20                                       1.00                  260 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I D
+A11A OO  HHZ I U
+A12A OO  HHZ I D
+A14A OO  HHZ I D
+                                                                    260 
+2023 6 2152018.5845 56.40129 59.46 1.40      12                                          0.30   0.20                                       1.00                  261 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A08A OO  HHZ I D
+A10A OO  HHZ I D
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                    261 
+2023 6 21527 8.4345 56.40129 59.58 1.61      15                                          0.30   0.20                                       1.00                  262 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I D
+A08A OO  HHZ I D
+A09A OO  HHZ I U
+A10A OO  HHZ I D
+A11A OO  HHZ I D
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    262 
+2023 6 2171117.4045 57.24129 59.88 2.23      12                                          0.30   0.20                                       1.00                  263 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    263 
+2023 6 2172514.9045 57.06129 59.52 2.09      11                                          0.30   0.20                                       1.00                  264 
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                    264 
+2023 6 2182129.9745 57.06129 59.58 1.83      11                                          0.30   0.20                                       1.00                  265 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+A05A OO  HHZ I D
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    265 
+2023 6 2183148.6245 57.12129 59.82 1.83      12                                          0.30   0.20                                       1.00                  266 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    266 
+2023 6 31418 3.6745 56.94129 59.70 1.74      10                                          0.30   0.20                                       1.00                  267 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A13A OO  HHZ I U
+                                                                    267 
+2023 6 41323 4.5145 57.30129 59.40 1.94      10                                          0.30   0.20                                       1.00                  268 
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    268 
+2023 6 4151610.0245 56.88129 59.40 1.77      13                                          0.30   0.20                                       1.00                  269 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I D
+A08A OO  HHZ I D
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    269 
+2023 6 5 02638.4645 56.76129 59.52 1.66      11                                          0.30   0.20                                       1.00                  270 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I D
+A12A OO  HHZ I D
+                                                                    270 
+2023 6 5 3 438.5445 57.24129 59.40 1.48      11                                          0.30   0.20                                       1.00                  271 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    271 
+2023 6 5 5 255.3545 57.24129 59.34 1.40       9                                          0.30   0.20                                       1.00                  272 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A08A OO  HHZ I U
+                                                                    272 
+2023 6 5171936.1045 57.00129 59.70 1.54       9                                          0.30   0.20                                       1.00                  273 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A12A OO  HHZ I D
+                                                                    273 
+2023 6 616 9 1.0645 57.30129 59.70 1.90      18                                          0.30   0.20                                       1.00                  274 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A02A OO  HHZ I U
+A03A OO  HHZ I D
+A04A OO  HHZ I U
+A05A OO  HHZ I D
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I D
+A14A OO  HHZ I D
+                                                                    274 
+2023 6 61856 0.1345 57.24129 59.58 1.37      13                                          0.30   0.20                                       1.00                  275 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A02A OO  HHZ I D
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    275 
+2023 6 7 7 124.5545 57.18129 59.34 0.68       9                                          0.30   0.20                                       1.00                  276 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+                                                                    276 
+2023 6 716 633.8345 56.46129 59.70 1.20       9                                          0.30   0.20                                       1.00                  277 
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A07A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                    277 
+2023 6 9 0 017.4845 56.58129 59.88 1.89      11                                          0.30   0.20                                       1.00                  278 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+                                                                    278 
+2023 6 9 4 845.9545 57.24129 59.70 1.48      10                                          0.30   0.20                                       1.00                  279 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A03A OO  HHZ I D
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I D
+                                                                    279 
+2023 6 9 42034.7345 56.64130  0.00 1.83      10                                          0.30   0.20                                       1.00                  280 
+AAS2 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I D
+A10A OO  HHZ I D
+A13A OO  HHZ I U
+                                                                    280 
+2023 6 91958 8.0345 56.82129 59.70 1.83      10                                          0.30   0.20                                       1.00                  281 
+AAS1 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+                                                                    281 
+2023 611 946 1.1945 57.24129 59.82 1.60      14                                          0.30   0.20                                       1.00                  282 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A03A OO  HHZ I D
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    282 
+2023 612194035.6645 56.94129 59.94 2.29      11                                          0.30   0.20                                       1.00                  283 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I U
+                                                                    283 
+2023 612213435.3545 56.40129 59.52 2.00      13                                          0.30   0.20                                       1.00                  284 
+AAS1 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A03A OO  HHZ I D
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+                                                                    284 
+2023 61223 639.3845 56.46129 59.58 1.71      12                                          0.30   0.20                                       1.00                  285 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A08A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I D
+A14A OO  HHZ I U
+                                                                    285 
+2023 61223 7 8.6345 56.46129 59.64 1.61      17                                          0.30   0.20                                       1.00                  286 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A02A OO  HHZ I U
+A03A OO  HHZ I U
+A06A OO  HHZ I D
+A07A OO  HHZ I D
+A08A OO  HHZ I D
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I D
+A14A OO  HHZ I U
+                                                                    286 
+2023 61223 722.6145 56.40129 59.52 1.71      13                                          0.30   0.20                                       1.00                  287 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    287 
+2023 6122317 9.8745 56.40129 59.40 1.77      13                                          0.30   0.20                                       1.00                  288 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A08A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I D
+A14A OO  HHZ I U
+                                                                    288 
+2023 612231818.4345 56.52129 59.64 1.63      12                                          0.30   0.20                                       1.00                  289 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+A07A OO  HHZ I D
+A08A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    289 
+2023 612231842.4345 56.46129 59.58 1.89      13                                          0.30   0.20                                       1.00                  290 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+A07A OO  HHZ I D
+A08A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    290 
+2023 612232216.0945 56.58129 59.40 2.06      12                                          0.30   0.20                                       1.00                  291 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A08A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+                                                                    291 
+2023 612234341.5045 56.52129 59.64 1.83      12                                          0.30   0.20                                       1.00                  292 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A07A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+                                                                    292 
+2023 612235159.7745 56.46129 59.46 1.66      13                                          0.30   0.20                                       1.00                  293 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A08A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    293 
+2023 613204336.9845 56.52129 59.40 1.43      10                                          0.30   0.20                                       1.00                  294 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AID1 OO  HHZ I D
+A01A OO  HHZ I U
+A02A OO  HHZ I D
+A03A OO  HHZ I D
+A04A OO  HHZ I U
+                                                                    294 
+2023 616112615.3845 57.30129 59.46 1.20      10                                          0.30   0.20                                       1.00                  295 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    295 
+2023 6171441 3.2245 57.24129 59.70 1.02      10                                          0.30   0.20                                       1.00                  296 
+AAS1 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A08A OO  HHZ I D
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    296 
+2023 6251354 8.0245 56.76129 59.94 1.66      12                                          0.30   0.20                                       1.00                  297 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    297 
+2023 627 95333.7345 57.30129 59.40 2.12       9                                          0.30   0.20                                       1.00                  298 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    298 
+2023 627101133.4845 57.24129 59.70 1.89      14                                          0.30   0.20                                       1.00                  299 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A03A OO  HHZ I U
+A04A OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    299 
+2023 627161319.1145 56.88129 59.52 1.66      13                                          0.30   0.20                                       1.00                  300 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+A05A OO  HHZ I D
+A06A OO  HHZ I D
+A07A OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+                                                                    300 
+2023 6282253 3.8645 56.94129 59.46 1.71       9                                          0.30   0.20                                       1.00                  301 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    301 
+2023 62823 0 0.9945 56.94129 59.10 1.54      10                                          0.30   0.20                                       1.00                  302 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    302 
+2023 62823 041.0345 56.94129 59.28 1.94      11                                          0.30   0.20                                       1.00                  303 
+AAS1 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                    303 
+2023 62823 529.2345 57.18129 59.58 2.00      10                                          0.30   0.20                                       1.00                  304 
+AAS1 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    304 
+2023 62823 640.0345 56.58129 59.52 2.12      14                                          0.30   0.20                                       1.00                  305 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+A12A OO  HHZ I D
+A14A OO  HHZ I U
+                                                                    305 
+2023 629 04442.0945 57.12129 59.70 1.60      11                                          0.30   0.20                                       1.00                  306 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    306 
+2023 62912 853.6045 56.70130  0.00 1.37      14                                          0.30   0.20                                       1.00                  307 
+AAS2 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A03A OO  HHZ I D
+A04A OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                    307 
+2023 63011 122.2945 57.24129 59.70 1.89      13                                          0.30   0.20                                       1.00                  308 
+AAS1 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A03A OO  HHZ I U
+A04A OO  HHZ I U
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I D
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    308 
+2023 7 1155248.4745 56.46129 59.46 1.41      15                                          0.30   0.20                                       1.00                  309 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A04A OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                    309 
+2023 7 2 92335.8145 56.58129 59.10 1.25      10                                          0.30   0.20                                       1.00                  310 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A08A OO  HHZ I D
+A10A OO  HHZ I U
+A13A OO  HHZ I D
+                                                                    310 
+2023 7 2123735.2045 56.70129 59.58 1.94      10                                          0.30   0.20                                       1.00                  311 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    311 
+2023 7 2123746.1245 56.64129 59.52 1.84      16                                          0.30   0.20                                       1.00                  312 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I D
+A14A OO  HHZ I U
+                                                                    312 
+2023 7 21238 9.0645 56.82129 59.76 1.89      17                                          0.30   0.20                                       1.00                  313 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A04A OO  HHZ I U
+A05A OO  HHZ I U
+A06A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I D
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I D
+A14A OO  HHZ I D
+                                                                    313 
+2023 7 8224959.9445 56.82129 59.52 2.06      11                                          0.30   0.20                                       1.00                  314 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A03A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    314 
+2023 7 9133651.6445 57.18129 59.70 1.05       9                                          0.30   0.20                                       1.00                  315 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+                                                                    315 
+2023 7 9134542.2745 57.06129 59.76 0.68       9                                          0.30   0.20                                       1.00                  316 
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A03A OO  HHZ I D
+A05A OO  HHZ I U
+A08A OO  HHZ I U
+                                                                    316 
+2023 712153856.0745 56.70129 59.64 0.85      11                                          0.30   0.20                                       1.00                  317 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I D
+                                                                    317 
+2023 713 84417.5245 56.46129 59.22 1.66      12                                          0.30   0.20                                       1.00                  318 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    318 
+2023 713 845 0.7345 56.40129 59.16 1.77      12                                          0.30   0.20                                       1.00                  319 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+A05A OO  HHZ I D
+A07A OO  HHZ I D
+A08A OO  HHZ I D
+A10A OO  HHZ I U
+A12A OO  HHZ I D
+A13A OO  HHZ I D
+A14A OO  HHZ I U
+                                                                    319 
+2023 716 25714.6345 57.30129 59.52 1.48      10                                          0.30   0.20                                       1.00                  320 
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AID1 OO  HHZ I U
+A01A OO  HHZ I D
+A02A OO  HHZ I U
+A04A OO  HHZ I D
+A06A OO  HHZ I D
+A09A OO  HHZ I D
+                                                                    320 
+2023 716145937.3645 56.94129 59.94 1.37      10                                          0.30   0.20                                       1.00                  321 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+                                                                    321 
+2023 719224930.0245 56.46129 59.88 1.60      11                                          0.30   0.20                                       1.00                  322 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                    322 
+2023 7271756 3.1945 56.46129 59.28 1.60      10                                          0.30   0.20                                       1.00                  323 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+A13A OO  HHZ I D
+                                                                    323 
+2023 731142214.1645 56.94129 59.94 1.89      13                                          0.30   0.20                                       1.00                  324 
+AAS1 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A04A OO  HHZ I U
+A05A OO  HHZ I D
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    324 
+2023 73122 457.3745 57.12129 59.76 1.73      15                                          0.30   0.20                                       1.00                  325 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A03A OO  HHZ I D
+A04A OO  HHZ I U
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+                                                                    325 
+2023 8 1 82353.4345 57.30129 59.70 1.37      10                                          0.30   0.20                                       1.00                  326 
+AAS1 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AID1 OO  HHZ I U
+A01A OO  HHZ I U
+A04A OO  HHZ I D
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    326 
+2023 8 21244 1.5945 56.94129 59.82 1.60      10                                          0.30   0.20                                       1.00                  327 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A12A OO  HHZ I U
+A13A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    327 
+2023 8 4 61713.9645 56.58129 59.58 1.48       9                                          0.30   0.20                                       1.00                  328 
+AAS1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                    328 
+2023 8 8 552 5.4045 56.64129 59.76 1.43      16                                          0.30   0.20                                       1.00                  329 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A04A OO  HHZ I D
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I U
+A10A OO  HHZ I D
+A11A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                    329 
+2023 8101017 4.0445 57.24129 59.58 1.43      11                                          0.30   0.20                                       1.00                  330 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AID1 OO  HHZ I U
+A01A OO  HHZ I U
+A02A OO  HHZ I U
+A03A OO  HHZ I U
+A04A OO  HHZ I U
+A09A OO  HHZ I D
+                                                                    330 
+2023 810113632.5245 56.46129 59.46 1.66      10                                          0.30   0.20                                       1.00                  331 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I D
+A11A OO  HHZ I D
+A12A OO  HHZ I U
+A14A OO  HHZ I U
+                                                                    331 
+2023 810133835.4445 57.18129 59.16 1.94      13                                          0.30   0.20                                       1.00                  332 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A06A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A09A OO  HHZ I D
+A11A OO  HHZ I U
+                                                                    332 
+2023 812132320.4145 56.52129 59.34 1.71      10                                          0.30   0.20                                       1.00                  333 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I D
+                                                                    333 
+2023 81214 616.2445 56.82129 59.58 1.48      12                                          0.30   0.20                                       1.00                  334 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    334 
+2023 812171842.8445 57.24129 59.64 1.40       9                                          0.30   0.20                                       1.00                  335 
+AAS1 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    335 
+2023 8161534 1.4845 56.76129 59.34 1.94      11                                          0.30   0.20                                       1.00                  336 
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I D
+A10A OO  HHZ I U
+A12A OO  HHZ I D
+A14A OO  HHZ I U
+                                                                    336 
+2023 8161537 6.4945 56.46129 59.22 1.83       9                                          0.30   0.20                                       1.00                  337 
+AAS1 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A08A OO  HHZ I D
+A10A OO  HHZ I U
+                                                                    337 
+2023 819163930.6845 56.58129 59.52 1.28       9                                          0.30   0.20                                       1.00                  338 
+AAS1 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I D
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+                                                                    338 
+2023 819175432.2345 56.76129 59.40 1.77      11                                          0.30   0.20                                       1.00                  339 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I D
+A12A OO  HHZ I U
+                                                                    339 
+2023 82217 415.1345 57.24129 59.64 1.43      13                                          0.30   0.20                                       1.00                  340 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I U
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A03A OO  HHZ I U
+A04A OO  HHZ I U
+A05A OO  HHZ I D
+A06A OO  HHZ I U
+A11A OO  HHZ I U
+A13A OO  HHZ I U
+                                                                    340 
+2023 822174247.3845 57.24129 59.58 0.74      11                                          0.30   0.20                                       1.00                  341 
+AAS1 OO  HHZ I U
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I D
+AEC2 OO  HHZ I D
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I U
+A10A OO  HHZ I U
+A11A OO  HHZ I D
+A12A OO  HHZ I D
+A13A OO  HHZ I U
+                                                                    341 
+2023 825 32918.9245 56.52129 59.52 1.14      12                                          0.30   0.20                                       1.00                  342 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I D
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I D
+AID1 OO  HHZ I D
+A03A OO  HHZ I U
+A05A OO  HHZ I U
+A07A OO  HHZ I U
+A08A OO  HHZ I U
+A11A OO  HHZ I U
+                                                                    342 
+2023 825 815 9.4145 56.46129 59.58 1.83      10                                          0.30   0.20                                       1.00                  343 
+AAS1 OO  HHZ I D
+AAS2 OO  HHZ I D
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AID1 OO  HHZ I D
+A05A OO  HHZ I U
+A08A OO  HHZ I U
+A10A OO  HHZ I U
+A12A OO  HHZ I D
+                                                                    343 
+2023 825 81522.0545 56.70129 59.34 1.66      11                                          0.30   0.20                                       1.00                  344 
+ACC1 OO  HHZ I U
+AEC1 OO  HHZ I U
+AEC2 OO  HHZ I U
+AEC3 OO  HHZ I U
+AID1 OO  HHZ I U
+A05A OO  HHZ I D
+A07A OO  HHZ I U
+A08A OO  HHZ I D
+A10A OO  HHZ I U
+A12A OO  HHZ I U
+A14A OO  HHZ I D
+                                                                    344 

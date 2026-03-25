@@ -1,5 +1,5 @@
 %% Main Script: One Figure with All Events
-clear; close all;
+clear; %close all;
 
 % Define cutoff dates and regions
 date_BF = datenum(2025, 4, 24, 8, 0, 0);
@@ -12,7 +12,8 @@ lonLim = [-130.04 -129.97];
 latLim = [45.908 46.001];
 
 % Load the event data
-load('/Users/mczhang/Documents/GitHub/FM4/02-data/G_FM/G_2F_HASH_V3_singlevel2.mat');
+load('/Users/mczhang/Documents/GitHub/FM4/02-data/G_FM/G_FM_50000.mat');
+
 load('/Users/mczhang/Documents/GitHub/FM4/02-data/F_Cl/Filter_Felix_combined.mat')
 for i=1:length(event1)
     event1(i).lat=Po_Clu(i).lat;
@@ -23,7 +24,7 @@ end
 event1D = event1;
 
 % Filter events by mechquality 'A' or 'B' and assign colors
-event1D = event1D(ismember({event1D.mechqual}, {'A'}));
+event1D = event1D(ismember({event1D.mechqual}, {'A','B','C'}));
 for i = 1:length(event1D)
     event1D(i).color3 = event1D(i).color2;
 end

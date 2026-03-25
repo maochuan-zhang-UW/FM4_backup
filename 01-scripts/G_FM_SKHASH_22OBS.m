@@ -6,17 +6,17 @@ path_FM= '/Users/mczhang/Documents/GitHub/SKHASH/SKHASH';
 fields={'AS1','AS2','CC1','EC1','EC2','EC3','ID1','01A', '02A', '03A', '04A', '05A', '06A', '07A','08A','09A','10A', '11A', '12A', '13A', '14A'};
 %% input and output
 load('/Users/mczhang/Documents/GitHub/FM4/02-data/F_Cl/Filter_Felix_combined.mat');
-outputname=[path,'G_FM/G_2F.mat'];
+outputname=[path,'G_FM/G_2F2test.mat'];
 filenameinFM=[path_FM,'/examples/hash3/IN/Axial_22OBSs_Aquality.dat'];
 %%
 
 fid=fopen(filenameinFM,'w+');
 Po=Po_Clu;
 tic;
-
-eventID=[136         246         660        2192        2472        2753        2773        3082        3090        357  4586        4927        5142];
+load('/Users/mczhang/Documents/GitHub/FM4/02-data/F_Cl/F_Cl_removedwave_shallowEID.mat');
+eventID=ans;
 for i=1:length(unique([eventID]))
-    ind_Cl=find([Po.cluster]==eventID(i));
+    ind_Cl=find([Po.ID]==eventID(i));
 % for i=1:length(unique([Po.cluster]))
 %     ind_Cl=find([Po.cluster]==i);
     if length(ind_Cl)>=100;continue;end

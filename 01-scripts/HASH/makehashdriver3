@@ -1,0 +1,7 @@
+cd code/
+make hash_driver3
+chmod 777 hash_driver3
+rm ../hash_driver3 
+mv hash_driver3 ..
+cd ..
+./hash_driver3 < hash.input

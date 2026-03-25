@@ -1,0 +1,2 @@
+python3 SKHASH.py ./examples/smile/control_file.txt
+python3 SKHASH.py ./examples/hash3/control_file.txt

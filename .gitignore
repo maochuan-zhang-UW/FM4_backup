@@ -1,0 +1,32 @@
+# Data file types (large binary/media)
+*.mat
+*.mp4
+*.MOV
+*.avi
+*.mseed
+
+# Figure outputs (generated)
+*.png
+*.pdf
+*.fig
+
+# MATLAB autosave
+*.asv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Exclude these directories entirely (large data / working files)
+02-data/Before22OBSs/
+01-scripts/datamseed/
+01-scripts/data/
+01-scripts/findcommonshallowEast/
+
+# SKHASH: exclude large example datasets and generated I/O
+01-scripts/SKHASH/examples/smile/
+01-scripts/SKHASH/examples/hash37/

@@ -1,0 +1,25 @@
+station.dat
+reverse.dat
+Acor.dat this is for th SP ratio correction.
+amp.dat
+phase.dat
+hashout1.dat
+hashout2.dat
+hashout3.dat
+hashout4.dat
+240 max_azimuthal gap
+120 max takeoff ange gap
+5 dang grid angle for search
+30 number of trial
+300 output focal mechanism
+2 SNR both should be larger than 2
+0.0000 bad fraction of polarity
+0 Number of additional impulsive polarity misfits
+1 Number of additional emergent polarity misfits
+0.300000 assumed noise in amplitude ratios, log10  
+     &  (e.g. 0.3 for a factor of 2)'
+25 maximum source-station distance
+45 angle for computing mechanisms probability
+0.250000 probability threshold for multiples
+1
+velmod1.dat 

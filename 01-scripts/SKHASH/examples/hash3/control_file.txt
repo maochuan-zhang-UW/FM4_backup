@@ -1,0 +1,84 @@
+## Control file example for SKHASH driver3
+
+$input_format  # format of input files
+hash3
+
+$stfile        # station list filepath
+examples/hash3/IN/scsn.stations.txt
+
+$plfile        # station polarity reversal filepath
+examples/hash3/IN/scsn.reverse.txt
+
+$corfile       # station correction filepath
+examples/hash3/IN/north3.statcor.txt
+
+$ampfile       # amplitude input filepath
+examples/hash3/IN/north3.amp.txt
+
+$fpfile        # P-polarity input filepath
+examples/hash3/IN/north2.phase.txt
+
+$outfile1      # focal mechanisms output filepath
+examples/hash3/OUT/out.txt
+
+$outfile2      # acceptable plane output filepath
+examples/hash3/OUT/out2.txt
+
+$outfile_pol_agree      # polarity agreement
+examples/hash3/OUT/out3_po.txt
+
+$outfile_sp_agree      # sp agreement
+examples/hash3/OUT/out4_sp.txt
+
+$outfile_pol_info      # polarity considered in the mechanisms
+examples/hash3/OUT/out3_po2.txt
+
+$outfolder_plots      # saved single
+examples/hash3/OUT/plots/
+
+$vmodel_paths  # whitespace/newline delimited list of paths to the velocity models
+examples/velocity_models/velmod_W11.txt
+examples/velocity_models/velmod_S11.txt
+examples/velocity_models/velmod_E21.txt
+examples/velocity_models/velmod_E31.txt
+examples/velocity_models/velmod_AXAS11.txt
+examples/velocity_models/velmod_AXAS21.txt
+examples/velocity_models/velmod_AXCC11.txt
+examples/velocity_models/velmod_AXEC11.txt
+examples/velocity_models/velmod_AXEC21.txt
+examples/velocity_models/velmod21.txt
+examples/velocity_models/velmod_W21.txt
+examples/velocity_models/velmod_E41.txt
+examples/velocity_models/velmod_E11.txt
+examples/velocity_models/velmod_AXEC31.txt
+examples/velocity_models/velmod_AXID11.txt
+
+$npolmin       # mininum number of polarity data (e.g., 8)
+15
+
+$dang          # minimum grid spacing (degrees)
+5
+
+$nmc           # number of trials (e.g., 30)
+30
+
+$maxout        # max num of acceptable focal mech. outputs (e.g., 500)
+300
+
+$ratmin        # minimum allowed signal to noise ratio
+2
+
+$badfrac       # fraction polarities assumed bad
+0.1
+
+$qbadfrac      # assumed noise in amplitude ratios, log10 (e.g. 0.3 for a factor of 2)
+0.3
+
+$delmax        # maximum allowed source-receiver distance in km.
+25
+
+$cangle        # angle for computing mechanisms probability
+45
+
+$prob_max      # probability threshold for multiples (e.g., 0.1)
+0.75

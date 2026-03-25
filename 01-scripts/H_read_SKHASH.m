@@ -1,6 +1,6 @@
 % Define the file name
 clear;
-filename = '/Users/mczhang/Documents/GitHub/SKHASH/SKHASH/examples/hash3/OUT/out.txt';
+filename = '/Users/mczhang/Documents/GitHub/SKHASH/SKHASH7/examples/hash3/OUT/out.txt';
 % Read the table from the file
 data = readtable(filename);
 events = table2struct(data);
@@ -138,5 +138,5 @@ end
 event1 = event1D_new;
 
 
-save('/Users/mczhang/Documents/GitHub/FM3/02-data/G_FM/GA_FM_SKHASH_all_24060.mat', 'event1');
+save('/Users/mczhang/Documents/GitHub/FM3/02-data/G_FM/GA_FM_SKHASH_all_24060_10percent.mat', 'event1');
 
