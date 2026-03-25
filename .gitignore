@@ -30,3 +30,7 @@ __pycache__/
 # SKHASH: exclude large example datasets and generated I/O
 01-scripts/SKHASH/examples/smile/
 01-scripts/SKHASH/examples/hash37/
+
+# Large HASH output files (>100MB, excluded from git)
+01-scripts/HASH/hashout2.dat
+02-data/G_FM/G_2F_HASH_V3_singlevel2.mat
