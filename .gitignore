@@ -9,6 +9,7 @@
 *.png
 *.pdf
 *.fig
+*.gif
 
 # MATLAB autosave
 *.asv
@@ -34,3 +35,15 @@ __pycache__/
 # Large HASH output files (>100MB, excluded from git)
 01-scripts/HASH/hashout2.dat
 02-data/G_FM/G_2F_HASH_V3_singlevel2.mat
+
+# Large files (>50MB) kept out of git; backed up on COSZO
+/01-scripts/HASH/hashout_Y2_cc_2.dat
+/01-scripts/HASH/hashout_Y2_dl_all_2.dat
+/01-scripts/HASH/hashout_Y2_dl_all_reloc2km_2.dat
+/01-scripts/HASH/hashout_Y2_dl_hq_2.dat
+/01-scripts/HASH/hashout_ge8_1D_2.dat
+/02-data/A_ID/waves_Y1_ge8.h5
+/02-data/A_ID/waves_Y2_ge8.h5
+/02-data/B_CC_py/B_Y2_10B.npy
+/02-data/B_CC_py/B_Y2_CC1.npy
+/02-data/B_CC_py/B_Y2_EC3.npy
