@@ -1,24 +1,37 @@
 % Define parameters
 clc;clear;close all;
 addpath '/Users/mczhang/Documents/GitHub/FM/01-scripts/matlab_ww'
-path='/Users/mczhang/Documents/GitHub/FM4/02-data/Before22OBSs';
-path_FM= '/Users/mczhang/Documents/GitHub/FM/01-scripts/HASH_Manual_5test';
-fields={'AS1','AS2','CC1','EC1','EC2','EC3','ID1'};
+path='/Users/mczhang/Documents/GitHub/FM4/02-data/';
+path_FM= '/Users/mczhang/Documents/GitHub/FM4/01-scripts/HASH';
+fields={'AS1','AS2','CC1','EC1','EC2','EC3','ID1','01A', '02A', '03A', '04A', '05A', '06A', '07A','08A','09A','10A', '11A', '12A', '13A', '14A'};
+%% input and output — DL polarity version (TMSF_001 predictions)
+load('/Users/mczhang/Documents/GitHub/FM4/02-data/F_Cl/Filter_Felix_combined.mat');
 
+% Overwrite the 7 legacy-station Po_ fields with TMSF_001 DL predictions
+dl = load('/Users/mczhang/Documents/GitHub/FM4/02-data/F_Cl/Filter_Felix_combined_DL.mat');
+dl_sta = {'AS1','AS2','CC1','EC1','EC2','EC3','ID1'};
+for iSta = 1:length(dl_sta)
+    pkey = ['Po_', dl_sta{iSta}];
+    for iEv = 1:length(Po_Clu)
+        dl_val = dl.(pkey)(iEv);
+        if dl_val ~= 0          % DL made a prediction — use it
+            Po_Clu(iEv).(pkey) = dl_val;
+        else                    % no DL prediction — zero out (no pick)
+            Po_Clu(iEv).(pkey) = 0;
+        end
+    end
+end
+clear dl dl_sta iSta iEv pkey dl_val;
 
-%% input and output
-%load('/Users/mczhang/Documents/GitHub/FM/02-data/E_Cl_toptenW.mat');
-load('/Users/mczhang/Documents/GitHub/FM4/02-data/Before22OBSs/F_Cl/F_Cl_All_MLreplace_samecluster_conf.mat');
-outputname=[path,'/G_FM/G_HASH_All_ML_sameClusterasbefore.mat'];
-filenameinFM=[path_FM,'/Axial_cluster_2026_ML.dat'];
-
+outputname=[path,'G_FM/G_2F_HASH_DL_TMSF001.mat'];
+filenameinFM=[path_FM,'/Axial_22OBSs.dat'];
 %%
 
 fid=fopen(filenameinFM,'w+');
 Po=Po_Clu;
 tic;
-for i=1:length(unique([Po.Cluster]))
-    ind_Cl=find([Po.Cluster]==i);
+for i=1:length(unique([Po.cluster]))
+    ind_Cl=find([Po.cluster]==i);
     if length(ind_Cl)>=100;continue;end
     %if sum([Po(ind_Cl).ALL])<7;continue;end
     fprintf(fid,'#\n');
@@ -26,13 +39,13 @@ for i=1:length(unique([Po.Cluster]))
     Lon_Cl=mean([Po(ind_Cl).lon]);
     Lat_Cl=mean([Po(ind_Cl).lat]);
     Depth_Cl=mean([Po(ind_Cl).depth]);
-    fprintf(fid,'%3d   %14.7f   %9.4f   %7.4f   %4.2f\n',i+99,Time_Cl,Lon_Cl,Lat_Cl,Depth_Cl);
+    fprintf(fid,'%3d   %14.7f   %9.4f   %7.4f   %4.2f\n',i,Time_Cl,Lon_Cl,Lat_Cl,Depth_Cl);
     for j=1:length(ind_Cl)
         fprintf(fid,' %6d     %14.7f  %9.4f    %7.4f    %5.3f\n',Po(ind_Cl(j)).ID,Po(ind_Cl(j)).on,Po(ind_Cl(j)).lon,Po(ind_Cl(j)).lat,Po(ind_Cl(j)).depth);
         for k=1:length(fields) % Noise, Pamp, Samp;
-            if eval(strcat('Po(ind_Cl(j)).Po_',fields{k},'(2)>0')) %&& eval(strcat('~isempty(Po(ind_Cl(j)).R',fields{k},')')) %if we don't picks, how can we know the polarity
+            if eval(strcat('Po(ind_Cl(j)).Po_',fields{k},'>0')) %&& eval(strcat('~isempty(Po(ind_Cl(j)).R',fields{k},')')) %if we don't picks, how can we know the polarity
                 str_P=['U'];
-            elseif eval(strcat('Po(ind_Cl(j)).Po_',fields{k},'(2)<0'))% && eval(strcat('~isempty(Po(ind_Cl(j)).R',fields{k},')'))
+            elseif eval(strcat('Po(ind_Cl(j)).Po_',fields{k},'<0'))% && eval(strcat('~isempty(Po(ind_Cl(j)).R',fields{k},')'))
                 str_P=['D'];
             else
                 continue;
@@ -42,11 +55,16 @@ for i=1:length(unique([Po.Cluster]))
             eval(strcat('Nop=Po(ind_Cl(j)).NSP_',fields{k},'(2);'));%p noise
             eval(strcat('Pam=Po(ind_Cl(j)).NSP_',fields{k},'(4);'));%p amp
             eval(strcat('Sam=Po(ind_Cl(j)).NSP_',fields{k},'(3);'));%s amp
-            else
+            elseif length(Po(ind_Cl(j)).(['NSP_',fields{k}]))>2
             eval(strcat('Nos=Po(ind_Cl(j)).NSP_',fields{k},'(1);'));%s noise
             eval(strcat('Nop=Po(ind_Cl(j)).NSP_',fields{k},'(1);'));%p noise
             eval(strcat('Pam=Po(ind_Cl(j)).NSP_',fields{k},'(3);'));%p amp
             eval(strcat('Sam=Po(ind_Cl(j)).NSP_',fields{k},'(2);'));%s amp
+            else
+            eval(strcat('Nos=1;'));%s noise
+            eval(strcat('Nop=1;'));%p noise
+            eval(strcat('Pam=1;'));%p amp
+            eval(strcat('Sam=1;'));%s amp
             end
             %
             % [ph2dt1(j).([baseName '_yang_nosS']), ...
@@ -55,7 +73,7 @@ for i=1:length(unique([Po.Cluster]))
             %                           ph2dt1(j).([baseName '_yang_Psnr'])];
                                       
             letter = char(64 + j);
-            str=strcat(fields{k},letter);
+            str=strcat(letter,fields{k});
             fprintf(fid,[str,'  %s      %10.4f      %10.4f    %12.4f     %12.4f\n'],str_P,Nop,Nos,Pam,Sam);
             %1 sname(1),scomp(1),snet(1),qns1(p),qns2(s),qpamp,qsamp:
         end
@@ -63,9 +81,8 @@ for i=1:length(unique([Po.Cluster]))
 end
 fprintf(fid,'*\n');
 fclose(fid);
-J4_Write_felix_run_HASH3_New(filenameinFM,path_FM);
-
-path_FM= '/Users/mczhang/Documents/GitHub/FM/01-scripts/HASH_Manual_5test';
+J_Write_run_HASH_22OBS(filenameinFM,path_FM);
+path_FM= '/Users/mczhang/Documents/GitHub/FM4/01-scripts/HASH';
 %cd /Users/mczhang/Documents/GitHub/FM;
 filename1=[path_FM,'/hashout1.dat'];
 filename2=[path_FM,'/hashout2.dat'];
@@ -104,17 +121,17 @@ for i=1:length(event1)
     end
 end
 clear event;
-%load('/Users/mczhang/Documents/GitHub/FM4/02-data/F_Cl/F_Cl_All.mat');
-load('/Users/mczhang/Documents/GitHub/FM4/02-data/Before22OBSs/F_Cl/F_Cl_All_MLreplace_samecluster_conf.mat');
-event=event1;
-for i=1:length(event1)
-    ind=find([Po_Clu.Cluster]==event(i).id-99);
-    event(i).lat=mean([Po_Clu(ind).lat]);
-    event(i).lon=mean([Po_Clu(ind).lon]);
-    event(i).depth=mean([Po_Clu(ind).depth]);
-%    event(i).Mw=nanmean([Po_Clu(ind).Mw]);
-end
-event1=event;
+% load('/Users/mczhang/Documents/GitHub/FM3/02-data/F_Cl/F_All_final02loc.mat');
+% 
+% event=event1;
+% for i=1:length(event1)
+%     ind=find([Po_Clu.Cluster]==event(i).id-99);
+%     event(i).lat=mean([Po_Clu(ind).lat]);
+%     event(i).lon=mean([Po_Clu(ind).lon]);
+%     event(i).depth=mean([Po_Clu(ind).depth]);
+% %    event(i).Mw=nanmean([Po_Clu(ind).Mw]);
+% end
+% event1=event;
 save(outputname, 'event1', 'event2','event3');
 toc;
 load handel;
